@@ -1,15 +1,15 @@
 [tool.poetry]
-name = "fact"
+name = "pypabs"
 version = "1.0.0"
-description = "Example Python project using best practices"
-authors = ["John Hagen <johnthagen@users.noreply.github.com>"]
+description = "An easy to use population based agent simulation in python"
+authors = ["Kendall Reid"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/johnthagen/python-blueprint"
-documentation = "https://johnthagen.github.io/python-blueprint/"
+repository = "https://github.com/kreid415/pypabs"
+documentation = "https://github.com/kreid415.github.io/pypabs"
 classifiers = [
-    "Development Status :: 5 - Production/Stable",
-    "Intended Audience :: Developers",
+    "Development Status :: 1 - Planning",
+    "Intended Audience :: Researchers",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python",
