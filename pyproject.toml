@@ -9,7 +9,7 @@ repository = "https://github.com/kreid415/pypabs"
 documentation = "https://github.com/kreid415.github.io/pypabs"
 classifiers = [
     "Development Status :: 1 - Planning",
-    "Intended Audience :: Researchers",
+    "Intended Audience :: Science/Research",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python",
