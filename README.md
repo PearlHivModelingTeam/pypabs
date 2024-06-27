@@ -35,5 +35,7 @@ These steps contain the following key components:
 - The engine takes a given seed population, and a list of event functions and run them over a number of steps.
 ## Artifacts
 - The resulting population, as well as residual artifacts from the event functions must be stored in a manner that allows for efficient storage and retrieval for analysis.
+- Large pandas dataframes should have correct types for feature columns to avoid wasted space
+- Ability to write results to sql during/after run
 ## Analysis
 - The scope of analysis is quite large, and user specific, however this library will support some basic utility functions.
