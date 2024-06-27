@@ -53,7 +53,7 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/johnthagen/python-blueprint
+      link: https://github.com/kreid415/pypabs
 plugins:
   - search
   - offline:
@@ -80,11 +80,11 @@ plugins:
 watch:
   # Watch src/ directory to reload on changes to docstrings for mkdocstrings plugin.
   - src
-site_name: fact
-copyright: Copyright &copy; 2018-2023 John Hagen
+site_name: pypabs
+copyright: Copyright &copy; 2024 Kendall Reid
 # GitHub Specific Configuration.
 repo_name: python-blueprint
-repo_url: https://github.com/johnthagen/python-blueprint
+repo_url: https://github.com/kreid415/pypabs
 edit_uri: edit/main/docs/user_guide/docs/
 nav:
   - index.md
