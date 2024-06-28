@@ -39,3 +39,4 @@ These steps contain the following key components:
 - Ability to write results to sql during/after run
 ## Analysis
 - The scope of analysis is quite large, and user specific, however this library will support some basic utility functions.
+- Basic verification statistics/graphs should be available after run
