@@ -8,9 +8,9 @@ This project aims to make creating Population Agent Based Simulations (PABS) eas
 
 ### Libraries for inspiration
 
-- [Mesa](https://github.com/
+- [Mesa](https://github.com/)
 - [EpiModel](https://www.epimodel.org/)
-- [NetLogo] (https://ccl.northwestern.edu/netlogo/)
+- [NetLogo](https://ccl.northwestern.edu/netlogo/)
 
 # pyPABS early design documentation
 The lifecycle of creating a population based simulation follows these steps:
