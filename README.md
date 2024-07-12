@@ -6,6 +6,12 @@ There are a number of great projects that already exist that cover agent based s
 ### Goals
 This project aims to make creating Population Agent Based Simulations (PABS) easy, as easy as creating agent based simulations in Mesa. Much of the insipiration for this project, comes from the ease of using Mesa, and extends its design.
 
+### Libraries for inspiration
+
+- [Mesa](https://github.com/
+- [EpiModel](https://www.epimodel.org/)
+- [NetLogo] (https://ccl.northwestern.edu/netlogo/)
+
 # pyPABS early design documentation
 The lifecycle of creating a population based simulation follows these steps:
 - 1) Define the population generating functions. These are functions that produce `n` agents with the desired characteristics, where `n` is the population size.
