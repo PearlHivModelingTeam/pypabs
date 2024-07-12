@@ -1,7 +1,7 @@
-# pyPABS: Population Agent Based Simulations in python
+# pyPABS: Parallel Agent Based Simulations in python
 
 ### Why another agent based simulation library?
-There are a number of great projects that already exist that cover agent based simulation quite well, like [Mesa](https://github.com/projectmesa/mesa?tab=readme-ov-file), however they do not handle the case of a population agent based simulation in which the agents act independentily, but are acted upon by external events. An example of this type of model is [PEARL](https://github.com/PearlHivModelingTeam/comorbidityPaper).
+There are a number of great projects that already exist that cover agent based simulation quite well, like [Mesa](https://github.com/projectmesa/mesa?tab=readme-ov-file), however they do not handle the case of a parallel agent based simulation in which the agents act independentily, but are acted upon by external events. An example of this type of model is [PEARL](https://github.com/PearlHivModelingTeam/comorbidityPaper).
 
 ### Goals
 This project aims to make creating Population Agent Based Simulations (PABS) easy, as easy as creating agent based simulations in Mesa. Much of the insipiration for this project, comes from the ease of using Mesa, and extends its design.
